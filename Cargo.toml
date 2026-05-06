@@ -3,7 +3,7 @@ name = "bsd-getopt"
 version = "0.1.0"
 edition = "2024"
 
-dependencies = "A minimal BSD-style getopt implementation in Rust"
+description = "A minimal BSD-style getopt implementation in Rust"
 license = "BSD-2-Clause"
 repository = "https://github.com/Numbchenchen/bsd-getopt.git"
 readme = "README.md"
