@@ -81,6 +81,7 @@
 /// assert_eq!(g.optarg, Some("value".to_string()));
 /// assert_eq!(g.next(), None);
 /// ```
+#[derive(Debug, Clone)]
 pub struct Getopt {
     args: Vec<String>,
     optstring: String,
