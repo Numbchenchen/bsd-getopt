@@ -5,7 +5,7 @@ edition = "2024"
 
 dependencies = "A minimal BSD-style getopt implementation in Rust"
 license = "BSD-2-Clause"
-repository = ""
+repository = "https://github.com/Numbchenchen/bsd-getopt.git"
 readme = "README.md"
 keywords = ["getopt", "cli", "argument", "parser", "unix"]
 categories = ["command-line-interface"]
