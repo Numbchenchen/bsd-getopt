@@ -1,0 +1,13 @@
+[package]
+name = "bsd-getopt"
+version = "0.1.0"
+edition = "2024"
+
+dependencies = "A minimal BSD-style getopt implementation in Rust"
+license = "BSD-2-Clause"
+repository = ""
+readme = "README.md"
+keywords = ["getopt", "cli", "argument", "parser", "unix"]
+categories = ["command-line-interface"]
+
+[dependencies]
